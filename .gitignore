@@ -1,0 +1,20 @@
+node_modules
+dist
+files
+.DS_Store
+public/HEP_img  
+done.mp3
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+.git
